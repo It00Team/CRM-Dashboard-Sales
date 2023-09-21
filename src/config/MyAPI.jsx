@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const API_ENDPOINT = `http://localhost:5000/api`;
-const API_ENDPOINT = `http://192.168.2.195:5000/api`;
+const API_ENDPOINT = `https://192.168.2.195:5000/api`;
 
 const MyAPI = {
     async get(url, token = null) {
