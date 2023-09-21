@@ -1,0 +1,26 @@
+.red-button {
+    background: red;
+}
+
+.green-button {
+    background-color: green;
+}
+
+.jas78{
+    display: flex;
+ padding: 20px;
+ border-radius: 5px;
+    gap: 30px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    /* width: ; */
+    box-shadow: 2px 2px 2px gray;
+}
+.vds87{
+padding: 20px 40px 20px 40px;
+border: none;
+border-radius: 5px;
+font-family: sans-serif;
+color: whitesmoke;
+background: linear-gradient(165deg,#2b70fb,#1cc1d7);
+}
